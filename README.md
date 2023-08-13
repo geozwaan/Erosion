@@ -22,7 +22,7 @@ The ASPECT input files provided in this repository correspond to **commit a1f0aa
 
 This branch is built on **commit 84d40e7** of the ASPECT main version, which can be found at [https://github.com/geodynamics/aspect](url). A copy of **a1f0aa5** can be found in the folder /src.
 
-## Additional ASPECT plugins  --> not used in the end...?
+## Additional ASPECT plugins
 
 For the initial model conditions, we used the ASPECT plugins in the folder /plugins. The file CMakeLists.txt can be used to install these plugins as shared libraries against your ASPECT installation.
 
