@@ -32,13 +32,13 @@ The ASPECT input file can be found in the folder /prms.
 
 ## Installation details
 
-ASPECT was built using the underlying library **deal.II 10.0.0-pre (master, 18a3861)** on the German HLRN cluster Lise. deal.II used:
+ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN cluster Lise. deal.II used:
 
-**- 32 bit indices and vectorization level 3 (512 bits)**
+- 32 bit indices and vectorization level 3 (512 bits)
 
-**- Trilinos 12.18.1**
+- Trilinos 12.18.1**
 
-**- p4est 2.2.0**
+- p4est 2.2.0
 
 
 
