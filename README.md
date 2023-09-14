@@ -28,7 +28,7 @@ For the initial model conditions, we used the ASPECT plugins in the folder /plug
 
 ## ASPECT input file
 
-The ASPECT input file can be found in the folder /prms.
+The ASPECT input file can be found in the folder /prm_input_files
 
 ## Installation details
 
