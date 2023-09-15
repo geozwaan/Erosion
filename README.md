@@ -1,6 +1,6 @@
 This repository provides the input files, restart files, ASPECT installation details and additional ASPECT plugins, FastScape instalation details, log files, parameter overview files, Paraview state files and Python model postprocessing files, used for the manuscript
 
-Rift-inversion orogens are potential hotspots for natural H2 generation
+**Rift-inversion orogens are potential hotspots for natural H2 generation**
 
 by
 
