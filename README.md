@@ -12,7 +12,7 @@ Preprint link: XXXXXX
 
 # Documentation
 
-The numerical simulations presented in this paper were run with the geodynamics code ASPECT ([https://aspect.geodynamics.org/](url)).
+The numerical simulations presented in this paper were run with the geodynamics code ASPECT ([https://aspect.geodynamics.org/](url)), coupled with FastScape for surface processes modelling (https://fastscape.org/). Paraview was used for visualization and analysis of our models.
 
 ## ASPECT version
 
@@ -30,7 +30,11 @@ For the initial model conditions, we used the ASPECT plugins in the folder /plug
 
 The ASPECT input files can be found in the folder /prm_input_files
 
-## Installation details
+## ASPECT log and parameter overview files
+
+The ASPECT log files and parameter overviews files of each individual model can be found in the folders /log_files and /Parameter_overviews
+
+## ASPECT Installation details
 
 ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN cluster Lise. deal.II used:
 
@@ -40,5 +44,13 @@ ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN 
 
 - p4est 2.2.0
 
+## FastScape version
+
+We used FastScape version XXXX
+
+## FastScape intallation details
 
 
+## Paraview 
+
+We used version 10.0 of Paraview version for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
