@@ -58,4 +58,4 @@ XXXX
 
 ## Paraview 
 
-We used version 10.0 of Paraview version for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
+We used version 10.0 of Paraview for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
