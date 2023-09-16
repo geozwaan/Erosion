@@ -4,7 +4,7 @@ This repository provides the input files, restart files, ASPECT installation det
 
 by
 
-Zwaan, F., Brune, S., Glerum, A., Vasey, D., Naliboff, J., Manatschal, G., and Gaucher, E. C.
+Zwaan, F., Brune, S., Glerum, A., Vasey, D. A., Naliboff, J. B., Manatschal, G., and Gaucher, E. C.
 
 submitted to Nature Geoscience
 
