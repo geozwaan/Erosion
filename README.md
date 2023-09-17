@@ -16,11 +16,11 @@ The numerical simulations presented in this paper were run with the geodynamics 
 
 ## ASPECT version
 
-The ASPECT input files provided in this repository correspond to **commit a1f0aa5** of the ASPECT branch
+The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch
 
 [https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
 
-This branch is built on **commit 84d40e7** of the ASPECT main version, which can be found at [https://github.com/geodynamics/aspect](url). A link to **a1f0aa5** can be found in the folder /ASPECT
+This branch is built on commit 84d40e7 of the ASPECT main version, which can be found at [https://github.com/geodynamics/aspect](url). A link to f747113 can be found in the folder /ASPECT
 
 ## Additional ASPECT plugins
 
@@ -44,18 +44,6 @@ ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN 
 
 - p4est 2.2.0
 
-## FastScape version
-
-We used FastScape version XXXX
-
-## FastScape intallation details
-
-XXXX
-
-## ASPECT-Fastscape coupling
-
-XXXX
-
 ## Paraview 
 
-We used version 10.0 of Paraview for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
+We used version 5.10 of Paraview for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
