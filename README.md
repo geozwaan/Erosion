@@ -44,6 +44,10 @@ ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN 
 
 - p4est 2.2.0
 
+## Postprocessing
+
+Python files used for postprocessing (statistics and rearrangement of topography data) are found in /Python_model_postprocessing
+
 ## Paraview 
 
 We used version 5.10 of Paraview for visualization and analysis of our models. The relevant Paraview states are provided in /Paraview_state_files
