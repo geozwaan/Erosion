@@ -20,6 +20,8 @@ The ASPECT input files provided in this repository correspond to commit f747113 
 
 [https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
 
+[https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
+
 ## Additional ASPECT plugins
 
 For the initial model conditions, we used the ASPECT plugins in the folder /plugins. The file CMakeLists.txt can be used to install these plugins as shared libraries against your ASPECT installation.
