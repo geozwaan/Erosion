@@ -12,15 +12,13 @@ Preprint link: XXXXXX
 
 # Documentation
 
-The numerical simulations presented in this paper were run with the geodynamics code ASPECT [https://aspect.geodynamics.org/](https://aspect.geodynamics.org/), coupled with FastScape for surface processes modelling (https://fastscape.org/). Paraview (https://www.paraview.org/) was used for visualization and analysis of our models.
+The numerical simulations presented in this paper were run with the geodynamics code ASPECT [https://aspect.geodynamics.org/](https://aspect.geodynamics.org/), coupled with FastScape for surface processes modelling [https://fastscape.org/](https://fastscape.org/). Paraview [https://www.paraview.org/](https://www.paraview.org/) was used for visualization and analysis of our models.
 
 ## ASPECT version
 
 The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch
 
-https://github.com/EstherHeck/aspect/tree/fastscape_update_again/
-
-[https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
+[https://github.com/EstherHeck/aspect/tree/fastscape_update_again/](https://github.com/EstherHeck/aspect/tree/fastscape_update_again/)
 
 ## Additional ASPECT plugins
 
