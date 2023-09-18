@@ -18,7 +18,7 @@ The numerical simulations presented in this paper were run with the geodynamics 
 
 The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch
 
-[https://github.com/EstherHeck/aspect/tree/fastscape_update_again/](url)
+([https://github.com/EstherHeck/aspect/tree/fastscape_update_again/](url)
 
 [https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
 
