@@ -20,8 +20,6 @@ The ASPECT input files provided in this repository correspond to commit f747113 
 
 [https://github.com/EstherHeck/aspect/tree/fastscape_update_again](url)
 
-This branch is built on commit 84d40e7 of the ASPECT main version, which can be found at [https://github.com/geodynamics/aspect](url). A link to f747113 can be found in the folder /ASPECT
-
 ## Additional ASPECT plugins
 
 For the initial model conditions, we used the ASPECT plugins in the folder /plugins. The file CMakeLists.txt can be used to install these plugins as shared libraries against your ASPECT installation.
