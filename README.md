@@ -12,7 +12,7 @@ Preprint link: XXXXXX
 
 # Documentation
 
-The numerical simulations presented in this paper were run with the geodynamics code ASPECT (https://aspect.geodynamics.org/), coupled with FastScape for surface processes modelling (https://fastscape.org/). Paraview (https://www.paraview.org/) was used for visualization and analysis of our models.
+The numerical simulations presented in this paper were run with the geodynamics code ASPECT [https://aspect.geodynamics.org/](https://aspect.geodynamics.org/), coupled with FastScape for surface processes modelling (https://fastscape.org/). Paraview (https://www.paraview.org/) was used for visualization and analysis of our models.
 
 ## ASPECT version
 
