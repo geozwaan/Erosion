@@ -1,0 +1,35 @@
+###
+#
+#  ASPECT configuration:
+#        ASPECT_VERSION:            2.4.0-pre
+#        GIT REVISION:              f747113 (fastscape_update_again_erosional_base_level-undo2780-before-rebase-on13mai22-Kais-and-ZhiChens-Version)
+#        CMAKE_BUILD_TYPE:          Release
+#
+#        DEAL_II_DIR:               /home/projects/bbp00039/fastscape_build_files/misc/deal.II-v9.3.0/lib/cmake/deal.II
+#        DEAL_II VERSION:           9.3.0
+#        ASPECT_USE_FP_EXCEPTIONS:  ON
+#        ASPECT_RUN_ALL_TESTS:      OFF
+#        ASPECT_USE_SHARED_LIBS:    ON
+#        ASPECT_HAVE_LINK_H:        ON
+#        ASPECT_WITH_LIBDAP:        OFF
+#        ASPECT_WITH_WORLD_BUILDER: ON /home/bbkcygne/software/aspect/aspect/contrib/world_builder
+#        ASPECT_PRECOMPILE_HEADERS: ON
+#        ASPECT_UNITY_BUILD:        ON
+#
+#        CMAKE_INSTALL_PREFIX:      /usr/local
+#        CMAKE_SOURCE_DIR:          /home/bbkcygne/software/aspect/aspect
+#        CMAKE_BINARY_DIR:          /home/bbkcygne/software/aspect/build_release_dev_f747113_dealiidev_24062022
+#        CMAKE_CXX_COMPILER:        GNU 9.2.0 on platform Linux x86_64
+#                                   /sw/comm/openmpi/3.1.5/skl/gcc/bin/mpicxx
+#        PARAMETER_GUI_EXECUTABLE:  PARAMETER_GUI_EXECUTABLE-NOTFOUND
+#
+#        LINKAGE:                   DYNAMIC
+#
+#        COMPILE_FLAGS:             
+#
+#        _WITH_CXX14:               ON
+#        _WITH_CXX17:               FALSE
+#        _MPI_VERSION:              3.1
+#        _WITH_64BIT_INDICES:       OFF
+#
+###
