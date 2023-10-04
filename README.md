@@ -16,7 +16,7 @@ The numerical simulations presented in this paper were run with the geodynamics 
 
 ## ASPECT version
 
-The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch and can be found in the folder /ASPECT_source.
+The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch [https://github.com/EstherHeck/aspect/tree/fastscape_update_again_erosional_base_level-undo2780-before-rebase-on13mai22-Kais-and-ZhiChens-Version](https://github.com/EstherHeck/aspect/tree/fastscape_update_again_erosional_base_level-undo2780-before-rebase-on13mai22-Kais-and-ZhiChens-Version) and can be found in the folder /ASPECT_source.
 
 ## Additional ASPECT plugins
 
