@@ -16,9 +16,7 @@ The numerical simulations presented in this paper were run with the geodynamics 
 
 ## ASPECT version
 
-The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch
-
-[https://github.com/EstherHeck/aspect/tree/fastscape_update_again/](https://github.com/EstherHeck/aspect/tree/fastscape_update_again/)
+The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch and can be found in the folder /ASPECT_source.
 
 ## Additional ASPECT plugins
 
@@ -32,15 +30,25 @@ The ASPECT input files can be found in the folder /prm_input_files
 
 The ASPECT log files and parameter overviews files of each individual model can be found in the folders /log_files and /Parameter_overviews
 
-## ASPECT Installation details
+## ASPECT and FastScape Installation details
 
 ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN cluster Lise. deal.II used:
 
 - 32 bit indices and vectorization level 3 (512 bits)
 
-- Trilinos 12.18.1**
+- Trilinos 12.18.1
 
 - p4est 2.2.0
+
+In order to install ASPECT together with FastScape:
+
+Create a build directory for fastscape and compile it with an added flag for creating a shared library.
+	cmake -DBUILD_FASTSCAPELIB_SHARED=ON /path/to/fastscapemake
+	make
+
+Compile ASPECT with a flag FASTSCAPE_DIR pointing to the fastscape build folder with the shared library
+	cmake -DFASTSCAPE_DIR=/path/to/fastscape/build -DDEAL_II_DIR=/path/to/dealii -DCMAKE_BUILD_TYPE=Release /path/to/aspect
+	make
 
 ## Postprocessing
 
