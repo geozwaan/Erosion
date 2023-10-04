@@ -42,7 +42,7 @@ ASPECT was built using the underlying library ddeal.II 9.3.0 on the German HLRN 
 
 See also the detailed.log file in folder /ASPECT_log
 
-In order to install ASPECT together with FastScape:
+In order to install ASPECT with FastScape (FastScape files being provided in folder /ASPECT_source):
 
 - Create a build directory for fastscape and compile it with an added flag for creating a shared library.
 	cmake -DBUILD_FASTSCAPELIB_SHARED=ON /path/to/fastscapemake
