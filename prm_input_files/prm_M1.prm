@@ -34,7 +34,6 @@ end
 
 
 
-# Solver parameters     #OLD VERSION
 #subsection Solver parameters
 #  subsection Stokes solver parameters
 #    set Number of cheap Stokes solver steps = 0
