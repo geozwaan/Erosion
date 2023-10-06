@@ -18,6 +18,11 @@ The numerical simulations presented in this paper were run with the geodynamics 
 
 The ASPECT input files provided in this repository correspond to commit f747113 of the ASPECT branch [https://github.com/EstherHeck/aspect/tree/fastscape_update_again_erosional_base_level-undo2780-before-rebase-on13mai22-Kais-and-ZhiChens-Version/](https://github.com/EstherHeck/aspect/tree/fastscape_update_again_erosional_base_level-undo2780-before-rebase-on13mai22-Kais-and-ZhiChens-Version/) and can be found in the folder /ASPECT_source.
 
+## Fastscape version
+
+The Fastscape input files provided in this repository correspond to commit 8063c7c of the FastScape branch [https://github.com/EstherHeck/fastscapelib-fortran/commits/fastscape-with-stratigraphy-for-aspect/](https://github.com/EstherHeck/fastscapelib-fortran/commits/fastscape-with-stratigraphy-for-aspect/) and can be found in the folder /FastScape_source.
+
+
 ## Additional ASPECT plugins
 
 For the initial model conditions, we used the ASPECT plugins in the folder /plugins. The file CMakeLists.txt can be used to install these plugins as shared libraries against your ASPECT installation.
