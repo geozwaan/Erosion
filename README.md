@@ -27,13 +27,13 @@ The Fastscape input files provided in this repository correspond to commit 8063c
 
 For the initial model conditions, we used the ASPECT plugins in the folder /plugins. The file CMakeLists.txt can be used to install these plugins as shared libraries against your ASPECT installation.
 
-## ASPECT input file
+## ASPECT input files, run files, and parameter files
 
-The ASPECT input files can be found in the folder /prm_input_files
+The ASPECT input files and run files used to run and automatically restart each model until the designated model duration was reached can be found in the folders /prm_input_files and /run_files. The parameter files in folder /Parameter_files contain an extensive overview of all parameters used in each model, and record those parameters that deviate from the standard values.
 
-## ASPECT log and parameter overview files
+## ASPECT log files
 
-The ASPECT log files and parameter overviews files of each individual model can be found in the folders /log_files and /Parameter_overviews
+The ASPECT log files and parameter overviews files that log the progression of each individual model can be found in the folders /log_files
 
 ## ASPECT and FastScape Installation details
 
