@@ -1,4 +1,4 @@
-This repository provides the input files, jobscripts, ASPECT source code, installation details and additional plugins, FastScape source code and installation details, ASPECT output log files, parameter overview files, ParaView state files and Python postprocessing files, used for the simulations presented in the manuscript
+This repository provides the input files, jobscripts, ASPECT source code, installation details and additional plugins, FastScape source code and installation details, ASPECT output log files, parameter overview files, ParaView state files and Python postprocessing files, used for the simulations presented in the publication
 
 **Rift-inversion orogens are potential hotspots for natural H2 generation**
 
@@ -6,11 +6,18 @@ by
 
 Zwaan, F., Brune, S., Glerum, A., Vasey, D. A., Naliboff, J. B., Manatschal, G., and Gaucher, E. C.
 
-submitted to Nature Geoscience.
+Published by Science Advances. https://doi.org/10.1126/sciadv.adr3418
 
-Preprint link: XXXXXX
 
-Accompanying videos and raw pvtu files of the figures in the manuscript can be found here: XXXXX
+Accompanying videos and analysis results used in this work can be found in this GFZ data publication: 
+
+**Results of detailed serpentinization and associated natural H2 potential in rift-inversion orogens, as simulated using numerical models**
+
+by
+
+Zwaan, F., Brune. S., Glerum, A. C., Vasey, D., Naliboff, J. B., Manatschal, G., and Gaucher, E. C.  
+
+Published by GFZ Data Services (2025). https://doi.org/10.5880/GFZ.2.5.2025.001
 
 # Documentation
 
