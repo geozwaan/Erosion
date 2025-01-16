@@ -8,7 +8,7 @@ Zwaan, F., Brune, S., Glerum, A., Vasey, D. A., Naliboff, J. B., Manatschal, G.,
 
 Published by Science Advances (2025). https://doi.org/10.1126/sciadv.adr3418
 
-
+____________________________________________________________________________________________________________________________________________________________
 Accompanying videos and analysis results used in this work can be found in the following GFZ data publication: 
 **Results of detailed serpentinization and associated natural H2 potential in rift-inversion orogens, as simulated using numerical models**
 
